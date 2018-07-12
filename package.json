@@ -1,6 +1,6 @@
 {
   "name": "@skyeer/react-leaflet-custom-control",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A React-Leaflet component that renders React elements in leaflet's control pane.",
   "homepage": "https://github.com/skyeer/react-leaflet-custom-control#readme",
   "author": "Ivan Hilckov",
