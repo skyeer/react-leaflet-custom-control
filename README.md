@@ -1,5 +1,7 @@
 # react-leaflet-custom-control
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/skyeer/react-leaflet-custom-control.svg)](https://greenkeeper.io/)
+
 A [React-Leaflet](https://github.com/PaulLeCam/react-leaflet) component that renders React elements in leaflet's control pane.
 
 [Demo](https://skyeer.github.io/react-leaflet-custom-control/)
