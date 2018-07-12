@@ -1,6 +1,6 @@
 {
   "name": "@skyeer/react-leaflet-custom-control",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Dumb React component for creating Controls on map",
   "homepage": "https://github.com/skyeer/react-leaflet-custom-control#readme",
   "author": "Ivan Hilckov",
