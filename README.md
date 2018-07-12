@@ -12,7 +12,7 @@ A [React-Leaflet](https://github.com/PaulLeCam/react-leaflet) component that ren
 
 `position`: Which pane to mount to. Options are `topleft`, `topright`, `bottomleft`, `bottomright`
 
-`className`: Add class name to div.leaflet-control
+`className`: Add class name to leaflet control pane
 
 ## Usage
 
