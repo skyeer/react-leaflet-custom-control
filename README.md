@@ -6,7 +6,7 @@ A [React-Leaflet](https://github.com/PaulLeCam/react-leaflet) component that ren
 
 ## installation
 
-`yarn add @skyeer/react-leaflet-custom-control` or `npm install @skyeer/react-leaflet-custom-control` or
+`yarn add @skyeer/react-leaflet-custom-control` or `npm install @skyeer/react-leaflet-custom-control`
 
 ## Options
 
@@ -54,3 +54,7 @@ export default class Example extends Component {
   }
 }
 ```
+
+## Attribution
+
+Based on [react-leaflet-control](https://github.com/LiveBy/react-leaflet-control).
