@@ -6,12 +6,13 @@ import DivControl from './DivControl'
 
 class Control extends MapControl {
   static propTypes = {
+    className: PropTypes.string,
     children: PropTypes.node,
     position: PropTypes.string,
   }
 
-  createLeafletElement({ position }) {
-    this.leafletElement = new DivControl(position)
+  createLeafletElement({ position, className }) {
+    this.leafletElement = new DivControl({ position, className })
     return this.leafletElement
   }
 
