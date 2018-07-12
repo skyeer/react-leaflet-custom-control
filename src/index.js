@@ -1,8 +1,8 @@
 import { Children } from 'react'
+import { render, unmountComponentAtNode } from 'react-dom'
 import { MapControl, withLeaflet } from 'react-leaflet'
 import PropTypes from 'prop-types'
 import DivControl from './DivControl'
-import { render, unmountComponentAtNode } from 'react-dom'
 
 class Control extends MapControl {
   static propTypes = {

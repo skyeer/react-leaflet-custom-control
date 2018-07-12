@@ -1,5 +1,13 @@
+docs
+example
+src
+yarn.lock
 .editorconfig
 .eslintignore
 .gitignore
-.npmignore
-webpack.config.js
+.prettierignore
+jsconfig.json
+webpack.common.js
+webpack.dist.js
+webpack.docs.js
+webpack.example.js

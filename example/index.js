@@ -25,7 +25,7 @@ class App extends Component {
   render() {
     return (
       <div>
-        <h1>React-Leaflet-Custom-Contorl example</h1>
+        <h1>React-Leaflet-Custom-Control example</h1>
         <Map onViewportChanged={this.onViewportChanged} viewport={this.state.viewport}>
           <TileLayer url="http://{s}.tile.osm.org/{z}/{x}/{y}.png" />
           <Control position="bottomright">
