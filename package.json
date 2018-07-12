@@ -1,5 +1,5 @@
 {
-  "name": "react-leaflet-custom-control",
+  "name": "@skyeer/react-leaflet-custom-control",
   "version": "0.0.1",
   "description": "Dumb React component for creating Controls on map",
   "homepage": "https://github.com/skyeer/react-leaflet-custom-control#readme",
@@ -8,7 +8,7 @@
   "main": "dist/react-leaflet-custom-control.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com:skyeer/react-leaflet-custom-control.git"
+    "url": "git+ssh://git@github.com/skyeer/react-leaflet-custom-control.git"
   },
   "bugs": {
     "url": "https://github.com/skyeer/react-leaflet-custom-control/issues"
@@ -120,5 +120,9 @@
       "prettier/prettier": "error",
       "no-console": "warn"
     }
+  },
+  "directories": {
+    "doc": "docs",
+    "example": "example"
   }
 }
